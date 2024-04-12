@@ -1,6 +1,5 @@
 import numpy as np
 import scipy.stats as stats
-# import matplotlib.pyplot as plt
 
 # 1 )  Даны две  независимые выборки. Не соблюдается условие нормальности. Сделайте вывод по результатам, полученным с помощью функции
 # alpha = 0.05
